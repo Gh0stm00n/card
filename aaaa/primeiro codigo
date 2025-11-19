@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghost Moon - Link Card</title>
+    <style>
+        /* O CSS será inserido na próxima seção */
+    </style>
+</head>
+<body>
+    <div class="card-container">
+        <img src="https://i.pinimg.com/736x/3a/ee/52/3aee5242a829aef1326de28672c01cfa.jpg" 
+alt="Foto de Perfil" 
+="profile-pic" 
+width="150" height="150" /> 
+        
+        <h1>✩ Ghost Moon ✩</h1>
+        
+        <p class="bio">
+            Podem me chamar de Ghost ou Nanda 
+            <br>
+            Tenho 18 anos 
+            <br>
+            Tanto faz os pronomes
+        </p>
+        
+        <div class="links-section">
+            <a href="https://www.instagram.com/xgh0stmoonx/" class="social-link">Instagram</a>
+            <a href="https://www.tiktok.com/@xghost.moonx" class="social-link">Tiktok Collector</a>
+            <a href="https://x.com/xgh0stmoonx" class="social-link">X</a>
+        </div>
+    </div>
+</body>
+</html>
